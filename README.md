@@ -1,2 +1,0 @@
-# RandomWordGenerator
-Created with CodeSandbox
